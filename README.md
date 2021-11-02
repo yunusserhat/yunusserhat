@@ -8,7 +8,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yunusserhat.yunusserhat)
 
 
-I am a Research Assistant in the Vocational School of Social Sciences at the [Marmara University](https://www.marmara.edu.tr/en) in Istanbul Turkey. My research interests include big data, data mining, criminology and information systems (e.g., GIS). I am a passionate data scientist and programmer, and I enjoy using my skills to contribute to the common good. More information about my research and teaching can be found on my [personal website](https://www.yunusserhat.com/).
+I am a Research Assistant in the Vocational School of Social Sciences at the [Marmara University](https://www.marmara.edu.tr/en) in Istanbul Turkey. My research interests include big data, data mining, criminology and information systems (e.g., GIS). More specifically, I am interested in applying geospatial big data and machine learning to pioneer the new. I am a passionate data scientist and programmer, and I enjoy using my skills to contribute to the common good. More information about my research and teaching can be found on my [personal website](https://www.yunusserhat.com/).
 
 
 ---
