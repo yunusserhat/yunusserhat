@@ -1,17 +1,22 @@
 ### Hi there, I am Yunus Serhat Bıçakçı 👋 
 
+
 [![GitHub Badge](https://img.shields.io/github/followers/yunusserhat?style=social)](https://github.com/yunusserhat?tab=followers)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com.tr/citations?user=2FSN2voAAAAJ&hl=en)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yunusserhat.yunusserhat)
 
+
 <p align="left"> <a href="https://twitter.com/yunusserhat" target="blank"><img src="https://img.shields.io/twitter/follow/yunusserhat?logo=twitter&style=for-the-badge" alt="yunusserhat" /></a> </p>
 
+
 ## I'm a Husband, Developer, Gamer, Sportsperson and Academic!!
+
 
 - 🌱 I’m currently learning **everything**
 - 💬 Ask me about **everything**
 - 📫 How to reach me **yunusserhat@yunusserhat.com**
 - 📄 Know about my experiences [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.yunusserhat.com/uploads/resume.pdf)
+
 
 ### Connect with me:
 
