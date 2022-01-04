@@ -11,7 +11,7 @@
 
 ## I'm a Husband, Developer, Gamer, Sportsperson and Academic!!
 
-A Data analyst passionate about Data Science :bar_chart:. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation :robot: 
+A Data analyst passionate about Data Science :bar_chart:. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps.
 
 - 🌱 I’m currently learning **everything**
 - 💬 Ask me about **everything**
