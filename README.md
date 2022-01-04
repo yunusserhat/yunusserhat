@@ -43,7 +43,6 @@ I'm a data analyst passionate about Data Science :bar_chart:. I am a Strong Advo
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/yunusserhat/github/master/assets/media/skillsicons/git.svg" width="70" height="40" />
 	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/yunusserhat/github/master/assets/media/skillsicons/hadoop.svg" width="70" height="40" />
 	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/yunusserhat/github/master/assets/media/skillsicons/apache_spark.svg" width="80" height="50" />
-	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/yunusserhat/github/master/assets/media/skillsicons/aws.svg" width="60" height="40" />
 </p>
 
 ---
