@@ -1,13 +1,8 @@
 ### Hi there, I am Yunus Serhat Bıçakçı[website] 👋 
 
 [![GitHub Badge](https://img.shields.io/github/followers/yunusserhat?style=social)](https://github.com/yunusserhat?tab=followers)
-[![Twitter Badge](https://img.shields.io/twitter/follow/yunusserhat?style=social)](https://twitter.com/yunusserhat)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com.tr/citations?user=2FSN2voAAAAJ&hl=en)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yunusserhat.yunusserhat)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yunusserhat&label=Profile%20views&color=0e75b6&style=flat" alt="yunusserhat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yunusserhat" alt="yunusserhat" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/yunusserhat" target="blank"><img src="https://img.shields.io/twitter/follow/yunusserhat?logo=twitter&style=for-the-badge" alt="yunusserhat" /></a> </p>
 
