@@ -9,9 +9,9 @@
 <p align="left"> <a href="https://twitter.com/yunusserhat" target="blank"><img src="https://img.shields.io/twitter/follow/yunusserhat?logo=twitter&style=for-the-badge" alt="yunusserhat" /></a> </p>
 
 
-## I'm a Husband, Developer, Gamer, Sportsperson and Academic!!
+## Abstract
 
-A Data analyst passionate about Data Science :bar_chart:. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps.
+I'm a data analyst passionate about Data Science :bar_chart:. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps.
 
 - 🌱 I’m currently learning **everything**
 - 💬 Ask me about **everything**
