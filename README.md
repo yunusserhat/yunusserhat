@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **everything**
 - 💬 Ask me about **everything**
-- 📫 How to reach (me)[yunusserhat.com] 
+- 📫 How to reach [me](yunusserhat.com)
 - 📄 Know about my experiences [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.yunusserhat.com/uploads/resume.pdf)
 
 
