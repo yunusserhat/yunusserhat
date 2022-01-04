@@ -1,4 +1,4 @@
-### Hi there, I am Yunus Serhat Bıçakçı[website] 👋 
+### Hi there, I am Yunus Serhat Bıçakçı 👋 
 
 [![GitHub Badge](https://img.shields.io/github/followers/yunusserhat?style=social)](https://github.com/yunusserhat?tab=followers)
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com.tr/citations?user=2FSN2voAAAAJ&hl=en)
@@ -38,4 +38,3 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusserhat&hide_langs_below=10) -->
 
-[website]: https://yunusserhat.com
