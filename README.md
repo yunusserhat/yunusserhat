@@ -11,11 +11,13 @@
 
 ## I'm a Husband, Developer, Gamer, Sportsperson and Academic!!
 
+A Data analyst passionate about Data Science :bar_chart:. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation :robot: 
 
 - 🌱 I’m currently learning **everything**
 - 💬 Ask me about **everything**
 - 📫 How to reach [me](www.yunusserhat.com)
 - 📄 Know about my experiences [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.yunusserhat.com/uploads/resume.pdf)
+- :bulb: I'm interested in all things data: **Big Data, Machine Learning and Data Science**
 
 
 ### Connect with me:
