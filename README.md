@@ -15,7 +15,7 @@ I'm a data analyst passionate about Data Science :bar_chart:. I am a Strong Advo
 
 - 🌱 I’m currently learning **everything**
 - 💬 Ask me about **everything**
-- 📫 How to reach [me](www.yunusserhat.com)
+- 📫 How to reach [me](https://www.yunusserhat.com)
 - 📄 Know about my experiences [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.yunusserhat.com/uploads/resume.pdf)
 - :bulb: I'm interested in all things data: **Big Data, Machine Learning and Data Science**
 
