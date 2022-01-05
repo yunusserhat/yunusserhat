@@ -48,7 +48,7 @@ I'm a data analyst passionate about Data Science :bar_chart:. I am a Strong Advo
 ---
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=yunusserhat&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusserhat)](https://github.com/yunusserhat/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusserhat&langs_count=3&hide=javascript,go,html,css,tex)
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusserhat&hide_langs_below=10) -->
