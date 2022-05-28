@@ -17,7 +17,7 @@ I'm a data analyst passionate about Data Science :bar_chart:. I am a Strong Advo
 - 💬 Ask me about **everything**
 - 📫 How to reach [me](https://www.yunusserhat.com)
 - 📄 Know about my experiences [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.yunusserhat.com/uploads/yunus_serhat_bicakci_phd_resume.pdf)
-- :bulb: I'm interested in all things data: **Big Data, Machine Learning and Data Science**
+- :bulb: I'm interested in all things data: **Big Data, Machine Learning, Spatio-Temporal and Data Science**
 
 
 ### Connect with me:
