@@ -11,7 +11,7 @@
 
 ## Abstract
 
-I'm a data analyst passionate about Data Science :bar_chart:. I am a Strong Advocate for 📜 open source.
+I'm a data scientist passionate about Data Science :bar_chart:. I am a Strong Advocate for 📜 open source.
 
 - 🌱 I’m currently learning **everything**
 - 💬 Ask me about **everything**
