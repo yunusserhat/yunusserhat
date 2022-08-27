@@ -13,11 +13,11 @@
 
 I'm a data scientist passionate about Data Science :bar_chart:. I am a Strong Advocate for 📜 open source.
 
-- 🌱 I’m currently learning **everything**
-- 💬 Ask me about **everything**
+- 🌱 I’m currently learning **AI**
+- 💬 Ask me about **Data Science**
 - 📫 How to reach [me](https://www.yunusserhat.com)
 - 📄 Know about my experiences [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.yunusserhat.com/uploads/yunus_serhat_bicakci_phd_cv.pdf)
-- :bulb: I'm interested in all things data: **Big Data, Machine Learning, Spatio-Temporal and Data Science**
+- :bulb: I'm interested in all things data: **Big Data, Artificial Intelligence, Data Science**
 
 
 ### Connect with me:
