@@ -16,7 +16,7 @@ I'm a data scientist passionate about Data Science :bar_chart:. I am a Strong Ad
 - 🌱 I’m currently learning **AI**
 - 💬 Ask me about **Data Science**
 - 📫 How to reach [me](https://www.yunusserhat.com)
-- 📄 Know about my experiences [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.yunusserhat.com/uploads/yunus_serhat_bicakci_phd_cv.pdf)
+- 📄 Know about my experiences [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.yunusserhat.com/uploads/resume.pdf)
 - :bulb: I'm interested in all things data: **Big Data, Artificial Intelligence, Data Science**
 
 
