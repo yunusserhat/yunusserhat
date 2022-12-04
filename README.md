@@ -11,13 +11,15 @@
 
 ## Abstract
 
-I'm a data scientist passionate about Data Science :bar_chart:. I am a Strong Advocate for 📜 open source.
+I am an Assistant Professor at the [Vocational School of Social Sciences](https://sbmyo.marmara.edu.tr/en), [Marmara University](https://marmara.edu.tr/en). 
+After January 2023, however, I will research criminology, big data, machine learning, natural language processing (NLP), and spatial-temporal predictions as a Postdoctoral Researcher at the [Jill Dando Institute of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute), [University College London](http://www.ucl.ac.uk).
+Most of my interests are in data science, big data, artificial intelligence, information systems (e.g., GIS), criminology, geospatial, and football. My overall research goal is to be able to solve challenging real-world problems by using machine learning, deep learning, data science, and other types of analytics and visualisation tools such as Python, R, and SQL.
 
 - 🌱 I’m currently learning **AI**
 - 💬 Ask me about **Data Science**
 - 📫 How to reach [me](https://www.yunusserhat.com)
 - 📄 Know about my experiences [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.yunusserhat.com/uploads/resume.pdf)
-- :bulb: I'm interested in all things data: **Big Data, Artificial Intelligence, Data Science**
+- :bulb: I'm interested in all things data: **Big Data, AI, GIS, Criminology, Football**
 
 
 ### Connect with me:
