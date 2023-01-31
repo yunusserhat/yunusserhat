@@ -12,6 +12,7 @@
 ## Abstract
 
 I am a Visiting Postdoctoral Researcher at the [Jill Dando Institute of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute), [University College London](http://www.ucl.ac.uk) and an Assistant Professor at the [Vocational School of Social Sciences](https://sbmyo.marmara.edu.tr/en), [Marmara University](https://marmara.edu.tr/en). My research focuses on criminology, big data, machine learning, natural language processing, and spatial-temporal predictions. 
+
 I am particularly interested in data science, big data, artificial intelligence, information systems (e.g., GIS), criminology, geospatial analysis, and football. My ultimate goal is to use machine learning, deep learning, data science, and various analytics and visualization tools such as Python, R, and SQL to solve challenging real-world problems.
 
 - 🌱 I’m currently learning **AI**
