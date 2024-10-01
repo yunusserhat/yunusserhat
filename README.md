@@ -11,16 +11,11 @@
 
 ## Abstract
 
-I am a Visiting Postdoctoral Researcher at the [Jill Dando Institute of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute), [University College London](http://www.ucl.ac.uk) and an Assistant Professor at the [Vocational School of Social Sciences](https://sbmyo.marmara.edu.tr/en), [Marmara University](https://marmara.edu.tr/en). My research focuses on criminology, big data, machine learning, natural language processing, and spatial-temporal predictions. 
+As a researcher with a PhD, I specialise in leveraging big data, machine learning, deep learning, and computer vision to address complex challenges across various domains. My work is driven by the transformative potential of data science and AI, particularly Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs), to develop innovative solutions. Proficient in Python, R, and SQL, I also have a strong interest in Geographic Information Systems (GIS) for spatial analysis. Currently, I am focused on integrating geoinformation and computer vision with LLMs and MLLMs to push the boundaries of AI capabilities.
 
-I am particularly interested in data science, big data, artificial intelligence, information systems (e.g., GIS), criminology, geospatial analysis, and football. My ultimate goal is to use machine learning, deep learning, data science, and various analytics and visualization tools such as Python, R, and SQL to solve challenging real-world problems.
-
-- 🌱 I’m currently learning **AI**
-- 💬 Ask me about **Data Science**
 - 📫 How to reach [me](https://www.yunusserhat.com)
-- 📄 Know about my experiences [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.yunusserhat.com/uploads/resume.pdf)
-- :bulb: I'm interested in all things data: **Big Data, AI, GIS, Criminology, Football**
-
+- 📄 Know about my experiences [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.yunusserhat.com/uploads/yunusserhatbicakci_phd_cv.pdf)
+- :bulb: I'm interested in all things data: **Data Science, Big Data, AI, Multimodal LLM, Criminology, GeoAI**
 
 ### Connect with me:
 <p align="left">
