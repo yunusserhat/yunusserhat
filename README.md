@@ -15,7 +15,7 @@ As a researcher with a PhD, I specialise in leveraging big data, machine learnin
 
 - 📫 How to reach [me](https://www.yunusserhat.com)
 - 📄 Know about my experiences [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.yunusserhat.com/uploads/yunusserhatbicakci_phd_cv.pdf)
-- :bulb: I'm interested in all things data: **Data Science, Big Data, AI, Multimodal LLM, Criminology, GeoAI**
+- :bulb: I'm interested in all things data: **GeoAI, VLM, LLM, Street-View Imagery, Criminology**
 
 ### Connect with me:
 <p align="left">
@@ -54,9 +54,6 @@ As a researcher with a PhD, I specialise in leveraging big data, machine learnin
 </p>
 
 ---
-
-![github stats](https://github-readme-stats.vercel.app/api?username=yunusserhat&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusserhat&langs_count=3&hide=javascript,go,html,css,tex,scss,shell)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusserhat&hide_langs_below=10) -->
 
