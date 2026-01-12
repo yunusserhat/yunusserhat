@@ -37,20 +37,32 @@ Researcher and AI Engineer with a PhD in Applied Informatics, specialising in de
 ### My skills include
 
 <p align="left">
-	<a href="https://www.python.org" target="_blank"> <img title="Python" alt="Python" src="https://raw.githubusercontent.com/yunusserhat/github/master/assets/media/skillsicons/python.svg" width="40" height="40" /> </a>
-	<a href="https://www.r-project.org" target="_blank"> <img title="R" alt="R" <img title="R" alt="linux" src="https://raw.githubusercontent.com/yunusserhat/github/master/assets/media/skillsicons/r-lang.svg" width="55" />  </a>
-	<a href="https://www.mysql.com" target="_blank"> <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/yunusserhat/github/master/assets/media/skillsicons/mysql.svg" width="40" height="40" /> </a>
-	<a href="https://www.postgresql.org" target="_blank">  <img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="40" height="40" /> </a>
-	<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-	<a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> 
-	</a><a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-	<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-	<a href="https://www.qgis.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/QGIS_logo%2C_2017.svg" alt="qgis" width="80" height="40"/> </a>	
-	<a href="https://www.arcgis.com/" target="_blank"> <img src="https://github.com/yunusserhat/Github/blob/main/assets/media/skillsicons/esri.svg" alt="esri" width="40" height="40"/> </a>
-	<a href="https://www.cloud.google.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="gcloud" width="80" height="40"/> </a>
-		
-		
-		
+	<!-- Core Languages & Databases -->
+	<a href="https://www.python.org" target="_blank">
+		<img title="Python" alt="Python" src="https://raw.githubusercontent.com/yunusserhat/github/master/assets/media/skillsicons/python.svg" width="40" height="40" />
+	</a>
+	<a href="https://www.postgresql.org" target="_blank">
+		<img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="40" height="40" />
+	</a>
+
+<a href="https://pytorch.org/" target="_blank">
+		<img title="PyTorch" alt="PyTorch" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" />
+	</a>
+	<a href="https://www.tensorflow.org" target="_blank">
+		<img title="TensorFlow" alt="TensorFlow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" />
+	</a>
+
+
+<a href="https://huggingface.co/transformers/" target="_blank">
+		<img title="Hugging Face Transformers" alt="Transformers" src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40" />
+	</a>
+	<a href="https://github.com/vllm-project/vllm" target="_blank">
+		<img title="vLLM" alt="vLLM" src="https://docs.vllm.ai/en/latest/assets/logos/vllm-logo-text-dark.png" height="40" />
+	</a>
+
+<a href="https://www.docker.com/" target="_blank">
+		<img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="40" height="40" />
+	</a>
 </p>
 
 ---
