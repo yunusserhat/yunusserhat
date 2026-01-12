@@ -11,7 +11,7 @@
 
 ## Abstract
 
-As a researcher with a PhD, I specialise in leveraging big data, machine learning, deep learning, and computer vision to address complex challenges across various domains. My work is driven by the transformative potential of data science and AI, particularly Large Language Models (LLMs) and Multimodal Large Language Models (MLLMs), to develop innovative solutions. Proficient in Python, R, and SQL, I also have a strong interest in Geographic Information Systems (GIS) for spatial analysis. Currently, I am focused on integrating geoinformation and computer vision with LLMs and MLLMs to push the boundaries of AI capabilities.
+Researcher and AI Engineer with a PhD in Applied Informatics, specialising in developing scalable AI solutions by leveraging Large Language Models, Vision-Language Models and Retrieval-Augmented Generation for solving complex multimodal problems. Experienced in designing innovative workflows that combine vision and language understanding with downstream tasks. Demonstrated expertise in semantic segmentation and object detection, particularly within geospatial and remote sensing domains. Proven track record in building production-ready inference pipelines and interactive AI tools using cloud infrastructure.
 
 - 📫 How to reach [me](https://www.yunusserhat.com)
 - 📄 Know about my experiences [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://www.yunusserhat.com/uploads/yunusserhatbicakci_phd_cv.pdf)
