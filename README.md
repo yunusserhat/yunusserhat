@@ -9,6 +9,7 @@
   <a href="https://www.yunusserhat.com/uploads/yunusserhatbicakci_phd_cv.pdf"><img src="https://img.shields.io/badge/CV-PDF-B31B1B?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE0IDJINmMtMS4xIDAtMiAuOS0yIDJ2MTZjMCAxLjEuOSAyIDIgMmgxMmMxLjEgMCAyLS45IDItMlY4bC02LTZ6bTIgMTZIOHYtMmg4djJ6bTAtNEg4di0yaDh2MnptLTMtNVYzLjVMMTguNSA5SDEzeiIvPjwvc3ZnPgo=" alt="CV" /></a>
   <a href="https://scholar.google.com.tr/citations?user=2FSN2voAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
   <a href="https://orcid.org/0000-0002-7288-9959"><img src="https://img.shields.io/badge/ORCID-3F7A12?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://avesis.marmara.edu.tr/yunus.serhat"><img src="https://img.shields.io/badge/AVESIS-003A70?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTUgMTMuMTh2NEwxMiAyMWw3LTMuODJ2LTRMMTIgMTdsLTctMy44MnpNMTIgM0wxIDlsMTEgNiA5LTQuOTFWMTdoMlY5TDEyIDN6Ii8+PC9zdmc+Cg==" alt="Marmara University AVESIS profile" title="Marmara University AVESIS profile" /></a>
 </p>
 
 <p align="center">
@@ -20,7 +21,7 @@
 
 ## Abstract
 
-Researcher and AI Engineer with a PhD in Applied Informatics, specialising in developing scalable AI solutions by leveraging Large Language Models, Vision-Language Models and Retrieval-Augmented Generation for solving complex multimodal problems. Experienced in designing innovative workflows that combine vision and language understanding with downstream tasks. Demonstrated expertise in semantic segmentation and object detection, particularly within geospatial and remote sensing domains. Proven track record in building production-ready inference pipelines and interactive AI tools using cloud infrastructure.
+I am an Assistant Professor in the Department of Artificial Intelligence and Machine Learning at Marmara University, where I lead the [GeoAI Research Group](https://avesis.marmara.edu.tr/researchteamsite/geoai). I am also an Affiliate Research Software Engineering Scientist in the Geospatial Data Science Group at the University of Glasgow. My research explores how multimodal artificial intelligence, vision-language models, and geographic information science intersect to tackle environmental, urban, and criminological challenges. I previously conducted postdoctoral research at UCL's Jill Dando Institute of Security and Crime Science and actively develop open-source scientific software for geospatial research.
 
 **Keywords:** GeoAI · Vision-Language Models · LLMs · Street-View Imagery · Remote Sensing · Criminology
 
@@ -29,7 +30,6 @@ Researcher and AI Engineer with a PhD in Applied Informatics, specialising in de
 - 🎓 **Assistant Professor**, Department of Artificial Intelligence and Machine Learning, Marmara University
 - 🧭 Founder and lead of the [GeoAI Research Group](https://avesis.marmara.edu.tr/researchteamsite/geoai)
 - 🤝 Affiliate, Geospatial Data Science Group, University of Glasgow
-- 🌍 International Committee Chair, [GIScience 2027](https://giscience2027.org/)
 - 🛠️ Building open tools: [GeoAI-VLM](https://github.com/yunusserhat/GeoAI-VLM) · [sppt-python](https://github.com/yunusserhat/sppt-python) · [🤗 Spaces](https://huggingface.co/yunusserhat)
 
 ## 🔗 Connect with me
